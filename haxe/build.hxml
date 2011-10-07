@@ -1,0 +1,4 @@
+-swf bin/main.swf
+-cp src
+-main Main
+-lib xirsys_injector
